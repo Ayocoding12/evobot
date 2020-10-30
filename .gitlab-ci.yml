@@ -10,5 +10,5 @@ job:
   - apt-get install -y ruby ruby-dev rubygems-integration
   - npm install
   - gem install --no-rdoc --no-ri dpl
-  - dpl --provider=heroku --app=YOUR-APP --api-key=API KEY OF YOU
+  - dpl --provider=heroku --app=Discordbot --api-key=38e9ec2a-4bc4-4480-babb-f99bc41f96d2
 # change app name and api key if necessary
